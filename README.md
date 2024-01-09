@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kundanika pradhan
 =========================================================================================================================================
 
-Frontend developer and AI/ML enthusiast
+
 ---------------------------------------
 
 I've been learning to code for about 5 years ,I started with web development but I have been learning about AI/ML recently.
